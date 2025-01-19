@@ -9,5 +9,6 @@ public class Maximumno_userinput {
         int Largest_no= n1>n2? n1:n2;
         char c='\t';
         System.out.println("Largest no is"+c+Largest_no );
+
     }
 }

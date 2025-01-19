@@ -8,3 +8,4 @@ public class inctrement_decrement {
         System.out.println(a);
     }
 }
+

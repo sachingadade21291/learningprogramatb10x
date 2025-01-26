@@ -13,6 +13,7 @@ public class Palindrome {
             System.out.println("The given string is palindrome");
         } else {
             System.out.println("The given string is not palindrome");
+            System.out.println();
         }
     }
 }
